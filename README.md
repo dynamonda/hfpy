@@ -1,0 +1,5 @@
+# README
+
+```
+uv run hfpy
+```
